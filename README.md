@@ -1,27 +1,25 @@
-# Repo Structure and Lesson Plan Template
-
-> <span style="color:red">Please remove all blockquote comments such as this before publishing.</span>
+# Convert an HTML Document into a WordPress Theme
 
 ## Description
 
-> A short paragraph explaining what is covered in the lesson plan. This should be text that can be copied and used in a meetup or workshop description.
+Develop a WordPress theme using a prexisting HTML (with CSS) document.
 
 ## Objectives
 
 After completing this lesson, participants will be able to:
 
-* Objective 1
-* Objective 2
-
-> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. There should be one assement item for each objective (see below).
+* Modify an existing HTML document.
+* Create the basic WordPress theme files.
+* Merge HTML and CSS into WordPress theme files.
+* Install and use a custom WordPress theme.
 
 ## Target Audience
 
 Who is this lesson intended for? What interests/skills would they bring? Put an "x" in the brackets for all that apply.
 
 * [ ] Users / Content Writers
-* [ ] Designers
-* [ ] Developers
+* [x] Designers
+* [x] Developers
 * [ ] Speakers
 * [ ] Organizers
 * [ ] Kids
@@ -31,28 +29,28 @@ Who is this lesson intended for? What interests/skills would they bring? Put an 
 How much experience would a participant need to get the most from this lesson? Put an "x" in the brackets for all that apply.
 
 * [ ] Beginner
-* [ ] Intermediate
+* [x] Intermediate
 * [ ] Advanced
 
 ## Type of Instruction
 
 Which strategies will be used for this lesson plan? Put an "x" in the brackets for all that apply.
 
-* [ ] Demonstration
+* [x] Demonstration
 * [ ] Discussion
 * [ ] Exercises
 * [ ] Feedback
-* [ ] Lecture (Presentation)
+* [x] Lecture (Presentation)
 * [ ] Slides
-* [ ] Show & Tell
-* [ ] Tutorial
+* [x] Show & Tell
+* [x] Tutorial
 
 ## Time Estimate (Duration)
 
 How long will it take to present this lesson? Put an "x" in the brackets for the one that applies.
 
 * [ ] 1 hour or less
-* [ ] 2-4 hours (half-day)
+* [x] 2-4 hours (half-day)
 * [ ] 5-8 hours (full-day)
 * [ ] 2 days
 * [ ] 3 days or more
@@ -61,25 +59,16 @@ How long will it take to present this lesson? Put an "x" in the brackets for the
 
 Participants will get the most from this lesson if they have familiarity with:
 
-* Skill 1
-* Skill 2
-
-> _For example:_
->
-> *   Experience with HTML and CSS
-> *   Completed the Basic WordPress Concepts lesson
+* Experience with HTML and CSS
+* Basic knowledge of WordPress
+* Basic knowledge of PHP
 
 ## Readiness Questions
 
-* Question 1
-* Question 2
+* Do you know how to structure a basic HTML document?
+* Do you know how to write basic CSS?
+* Do you want to design minimalist WordPress themes?
 
-> A list of questions for participants to see if they have the background and skills necessary to learn and understand the lesson.
->
-> _For example:_
->
-> *   Do you want to makes changes to your theme yourself?
-> *   Do you know how to write CSS?
 
 ## Slides
 
